@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Ngọc iuu ơi Ngọc iu à!',
     introDesc: `Anh yêu bầu trời xanh, yêu cả cánh hoa hồng
-    Nhưng không quên một thứ, đó chính là yêu em` ,
+    Nhưng không quên một thứ, đó chính là yêu em`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
