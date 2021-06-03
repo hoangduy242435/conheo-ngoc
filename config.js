@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Ngọc iuu ơi Ngọc iu à!',
-    introDesc: `Anh yêu bầu trời xanh, yêu cả cánh hoa hồng
-    Nhưng không quên một thứ, đó chính là yêu em`,
-    btnIntro: ' Yêu <3',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích anh và yêu anh rất nhìuuu <33',
-    btnNo: 'Không, mình làm bạn thân đi :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introTitle: 'Con 🐷 của anh ơiiii!',
+    introDesc: `Tài nấu ăn của anh tuy không giỏi...
+    Nhưng anh không biết gì ngoài nấu món lẩu tình yêu <333`,
+    btnIntro: ' Em thích lắmmm <3',
+    title: 'Ủa mà hình như là em đang đóii lắm phải không, phải chăng em thèm anh?? 😙',
+    desc: 'Vậy có muốn qua nhà ăn anh hông?? Anh hông dụ em đâuu 🥰 ',
+    btnYes: 'Dạ muốn. Em muốn qua nhà anh...ăn anh...',
+    btnNo: 'Không anh không có cửa :)))',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại muốn ăn anh???',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Không biết nữa em chỉ yêu a thôi <33333333',
-    mess: 'Anh biết mà 🥰. Anh cũng yêu em nhiều lắm đó công chúa của anh 😘😘',
-    messDesc: 'Anh yêu em lắm nên em đừng buồn nữa nhaaa. Tối anh hát cho nghe <3333.',
-    btnAccept: 'Okiiiii lun <3',
+    reply: 'Có vài người rủ em đi ăn tối, em từ chối vì thực đơn không có anh <33333333',
+    mess: 'Tính mời em đi ăn tối nhưng lại sợ em thành bữa tối của anh...😘😘',
+    messDesc: 'Vậy thì nghe anh, sáng trà sữa, trưa trà xanh, chiều để bụng. Tối ăn anh <3333.',
+    btnAccept: ' Mlemmm <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
